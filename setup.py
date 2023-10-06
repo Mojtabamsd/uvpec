@@ -36,7 +36,7 @@ setup(
             'PyYaml>=5.3.1',
             'scikit-image>=0.18.1',
             'xgboost>=1.3.3',
-            'sklearn>=0.0',
+            'scikit-learn>=0.0',
             'pyarrow>=3.0.0',
             'key-generator>=1.0.3',
             'pillow>=8.2.2',
